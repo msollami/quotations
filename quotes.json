@@ -1,0 +1,586 @@
+[
+    {
+    "Author": "Joe Armstrong",
+    "QuoteText": "The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.",
+    "SourceLink": "https://news.ycombinator.com/item?id=5205441",
+    "SourceTitle": "Coders at Work: Reflections on the Craft of Programming",
+    "Topic": "Computer Science"
+  },
+  {
+        "Author": "Edsger W. Dijkstra",
+    "QuoteText": "Object-oriented programming is an exceptionally bad idea which could only have originated in California.",
+        "SourceLink": "",
+        "SourceTitle": "TUG LINES Issue 32.",
+    "Topic": "Computer Science"
+  },
+    {
+        "Author": "Paul Graham",
+    "QuoteText": "The object-oriented model makes it easy to build up programs by accretion. What this often means, in practice, is that it provides a structured way to write spaghetti code.",
+        "SourceLink": "",
+        "SourceTitle": "Hacker News",
+    "Topic": "Computer Science"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "Become who you are!",
+    "SourceLink": "https://books.google.it/books?id=Vf8KETLiKXMC&pg=PA152&dq=%22Become+who+you+are%22+Pindar+Nietzsche&hl=en&sa=X&ved=0ahUKEwirrpOtu7jOAhXHAMAKHdabAPgQ6AEIHjAA#v=onepage&q=%22Become%20who%20you%20are%22%20Pindar%20Nietzsche&f=false",
+    "SourceTitle": "Nietzsche: The Gay Science. Aphorism 270",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "The doer alone learneth.",
+    "SourceLink": "",
+    "SourceTitle": "Brainy",
+    "Topic": [
+      "Philosophy",
+      "Learning"
+    ]
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "He who has a why, can endure any how.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "Love is blind; friendship closes its eyes.",
+    "SourceLink": "https://books.google.com/books?id=fgLVCwAAQBAJ&pg=PT22&dq=Nietzsche++%22Love+is+blind%22&hl=en&sa=X&ved=0ahUKEwjxlbKgl7HOAhWISiYKHehnBq0Q6AEILzAD#v=onepage&q=Nietzsche%20%20%22Love%20is%20blind%22&f=false",
+    "SourceTitle": "Quotes & Facts",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "There are no facts, only interpretations.",
+    "SourceLink": "",
+    "SourceTitle": "Notebooks (Summer 1886 – Fall 1887)",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "Faith: not wanting to know what is true.",
+    "SourceLink": "",
+    "SourceTitle": "The Antichrist (1888). Sec. 52",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "The will to a system is a lack of integrity.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "In heaven, all the interesting people are missing.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "In every great man a child is hidden that wants to play.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "Convictions are more dangerous foes of truth than lies.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "The essence of all beautiful art, all great art, is gratitude.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "Necessity is not an established fact, but an interpretation.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "To forget one’s purpose is the commonest form of stupidity.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "Is life not a thousand times too short for us to bore ourselves?",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "Whatever is done for love always occurs beyond good and evil.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "No price is too high to pay for the privilege of owning yourself.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "I cannot believe in a God who wants to be praised all the time.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "The higher we soar the smaller we appear to those who cannot fly.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "Without music, life would be simply an error, exhausting toil, exile.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "There is more wisdom in your body than in your deepest philosophy.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "We have art in order not to die of the truth, and it is the proper task of life.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "We should consider every day lost on which we have not danced at least once.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "All credibility, all good conscience, all evidence of truth come only from the senses.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "You great star, what would your happiness be had you not those for whom you shine?",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "Admiration for a quality or an art can be so strong that it deters us from striving to possess it.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "The man of knowledge must be able not only to love his enemies but also to hate his friends.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "It is impossible to suffer without making someone pay for it; every complaint already contains revenge.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "There is not enough love and goodness in the world to permit giving any of it away to imaginary beings.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "The kingdom of heaven is a condition of the heart, not something that comes upon the earth or after death.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "I assess the power of a will by how much resistance, pain, torture it endures and knows how to turn to its advantage.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "Believe me! The secret of reaping the greatest fruitfulness and the greatest enjoyment from life is to live dangerously!",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "Danger alone acquaints us with our own resources, our virtues, our armor and weapons, our spirit — and forces us to be strong ...",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "There is an innocence in admiration; it is found in those to whom it has never yet occurred that they, too, might be admired some day.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "Did you ever say yes to a pleasure? Oh my friends, then you also said yes to all pain. All things are linked, entwined, in love with one another.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "He who fights with monsters might take care lest he thereby become a monster. And if you gaze for long into an abyss, the abyss gazes also into you.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "Art is not merely an imitation of the reality of nature, but in truth a metaphysical supplement to the reality of nature, placed alongside thereof for its conquest.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "Weariness that wants to reach the ultimate with one leap, with one fatal leap, a poor ignorant weariness that does not want to want any more: this created all gods and afterworlds.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "There is an innocence in admiration; it is found in those to whom it has never yet occurred that they, too, might be admired some day.  Admiration for a quality or an art can be so strong that it deters us from striving to possess it.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "O Voltaire! O humanity! O nonsense! There’s something about the “truth,” about the search for truth. And when someone goes after it in far too human a way—“il ne cherche le vrai que pour faire le bien” [he seeks the truth only to do good]—I’ll wager he comes up with nothing!",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "We invented the concept of purpose. In reality purpose is lacking. . . We are necessary, we are a piece of destiny, we belong to the whole, we are in the whole. There is nothing that could judge, measure, compare, condemn our existence, because that would be to judge, measure, compare or condemn the whole . . . But there is nothing but the whole! . . . The concept of God was until now the greatest objection against existence. We deny God, we deny our responsibility to God. Thus do we redeem the world.",
+    "SourceLink": "",
+    "SourceTitle": "Twilight of the Idols, The four great errors, 8.",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "We must be careful not to attribute heartlessness or unreason to the cosmos - nor their opposites. The cosmos is neither perfect, nor beautiful, nor noble, nor does it desire to be any of these; certainly it does not aspire to mimic humans! It is not at all affected by any or our aesthetic and moral judgements! It has no drive for self-preservation, nor any other instincts. And it has no laws. Let us not say that there are laws in nature. There are only necessities: there is no-one who commands, no-one who obeys, no-one who oversteps the mark. . . . When will all these shadows of God cease to darken us? When will we finally have rid nature of God and gods? When will we be able to begin to naturalize ourselves with a clean, newly discovered, newly liberated Nature?",
+    "SourceLink": "",
+    "SourceTitle": "The Joyful Science. p109",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Friedrich Nietzsche",
+    "QuoteText": "Three metamorphoses of the spirit do I designate to you: how the spirit becometh a camel, the camel a lion, and the lion at last a child. Many heavy things are there for the spirit, the strong load-bearing spirit in which reverence dwelleth: for the heavy and the heaviest longeth its strength. What is heavy? so asketh the load-bearing spirit; then kneeleth it down like the camel, and wanteth to be well laden. What is the heaviest thing, ye heroes? asketh the load-bearing spirit, that I may take it upon me and rejoice in my strength. Is it not this: To humiliate oneself in order to mortify one’s pride? To exhibit one’s folly in order to mock at one’s wisdom? Or is it this: To desert our cause when it celebrateth its triumph? To ascend high mountains to tempt the tempter? Or is it this: To feed on the acorns and grass of knowledge, and for the sake of truth to suffer hunger of soul? Or is it this: To be sick and dismiss comforters, and make friends of the deaf, who never hear thy requests? Or is it this: To go into foul water when it is the water of truth, and not disclaim cold frogs and hot toads? Or is it this: To love those who despise us, and give one’s hand to the phantom when it is going to frighten us? All these heaviest things the load-bearing spirit taketh upon itself: and like the camel, which, when laden, hasteneth into the wilderness, so hasteneth the spirit into its wilderness. But in the loneliest wilderness happeneth the second metamorphosis: here the spirit becometh a lion; freedom will it capture, and lordship in its own wilderness. Its last Lord it here seeketh: hostile will it be to him, and to its last God; for victory will it struggle with the great dragon. What is the great dragon which the spirit is no longer inclined to call Lord and God? ”Thou-shalt,” is the great dragon called. But the spirit of the lion saith, “I will.” “Thou-shalt,” lieth in its path, sparkling with gold–a scale-covered beast; and on every scale glittereth golden, “Thou shalt!” The values of a thousand years glitter on those scales, and thus speaketh the mightiest of all dragons:  “All the values of things–glitter on me. All values have already been created, and all created values–do I represent. Verily, there shall be no ‘I will’ any more.” Thus speaketh the dragon. My brethren, wherefore is there need of the lion in the spirit? Why sufficeth not the beast of burden, which renounceth and is reverent? To create new values–that, even the lion cannot yet accomplish: but to create itself freedom for new creating–that can the might of the lion do. To create itself freedom, and give a holy Nay even unto duty: for that, my brethren, there is need of the lion. To assume the right to new values–that is the most formidable assumption for a load-bearing and reverent spirit. Verily, unto such a spirit it is preying, and the work of a beast of prey. As its holiest, it once loved “Thou-shalt”: now is it forced to find illusion and arbitrariness even in the holiest things, that it may capture freedom from its love: the lion is needed for this capture. But tell me, my brethren, what the child can do, which even the lion could not do? Why hath the preying lion still to become a child? Innocence is the child, and forgetfulness, a new beginning, a game, a self-rolling wheel, a first movement, a holy Yea. Aye, for the game of creating, my brethren, there is needed a holy Yea unto life: ITS OWN will, willeth now the spirit; HIS OWN world winneth the world’s outcast. Three metamorphoses of the spirit have I designated to you: how the spirit became a camel, the camel a lion, and the lion at last a child. Thus spake Zarathustra!",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "Either those curtains go, or I do.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "True friends stab you in the front.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "Illusion is the first of all pleasures.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "Work is the curse of the drinking classes.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "Life is too important to be taken seriously.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "When good Americans die they go to Paris.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "Life imitates art far more than art imitates Life.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "Moderation is a fatal thing. Nothing succeeds like excess.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "If you are not too long, I will wait here for you all my life.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "The true mystery of the world is the visible, not the invisible.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "I have the simplest tastes. I am always satisfied with the best.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "One should always play fairly when one has the winning cards.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "Whenever people agree with me I always feel I must be wrong.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "I put all my genius into my life; I put only my talent into my works.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "A gentleman is one who never hurts anyone’s feelings unintentionally.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "Man can believe the impossible, but can never believe the improbable.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "Pessimist: One who, when he has the choice of two evils, chooses both.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "Life is never fair, and perhaps it is a good thing for most of us that it is not.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "The good ended happily, and the bad unhappily. That is what fiction means.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "I am so clever that sometimes I don’t understand a single word of what I am saying.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "All women become like their mothers. That is their tragedy. No man does. That’s his.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "It is absurd to divide people into good and bad. People are either charming or tedious.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "It is better to be beautiful than to be good. But... it is better to be good than to be ugly.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "No great artist ever sees things as they really are. If he did, he would cease to be an artist.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "Arguments are extremely vulgar, for everyone in good society holds exactly the same opinion.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "The old believe everything, the middle-aged suspect everything, the young know everything.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "There are only two tragedies in life: one is not getting what one wants, and the other is getting it",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "He lives the poetry that he cannot write. The others write the poetry that they dare not realize.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "It is what you read when you don’t have to that determines what you will be when you can’t help it.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "It is only by not paying one’s bills that one can hope to live in the memory of the commercial classes.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "By giving us the opinions of the uneducated, journalism keeps us in touch with the ignorance of the community.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "When I was young I thought that money was the most important thing in life; now that I am old I know that it is.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "I can stand brute force, but brute reason is quite unbearable. There is something unfair about its use. It is hitting below the intellect.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "Most people die of a sort of creeping common sense, and discover when it is too late that the only things one never regrets are one’s mistakes.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "Do you really think it is weakness that yields to temptation? I tell you that there are terrible temptations which it requires strength, strength and courage to yield to.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  },
+  {
+    "Author": "Oscar Wilde",
+    "QuoteText": "I choose my friends for their good looks, my acquaintances for their good characters, and my enemies for their intellects. A man cannot be too careful in the choice of his enemies.",
+    "SourceLink": "",
+    "SourceTitle": "",
+    "Topic": "Philosophy"
+  }
+]
