@@ -1,586 +1,2469 @@
 [
-    {
-    "Author": "Joe Armstrong",
-    "QuoteText": "The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.",
-    "SourceLink": "https://news.ycombinator.com/item?id=5205441",
-    "SourceTitle": "Coders at Work: Reflections on the Craft of Programming",
-    "Topic": "Computer Science"
-  },
-  {
-        "Author": "Edsger W. Dijkstra",
-    "QuoteText": "Object-oriented programming is an exceptionally bad idea which could only have originated in California.",
-        "SourceLink": "",
-        "SourceTitle": "TUG LINES Issue 32.",
-    "Topic": "Computer Science"
-  },
-    {
-        "Author": "Paul Graham",
-    "QuoteText": "The object-oriented model makes it easy to build up programs by accretion. What this often means, in practice, is that it provides a structured way to write spaghetti code.",
-        "SourceLink": "",
-        "SourceTitle": "Hacker News",
-    "Topic": "Computer Science"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "Become who you are!",
-    "SourceLink": "https://books.google.it/books?id=Vf8KETLiKXMC&pg=PA152&dq=%22Become+who+you+are%22+Pindar+Nietzsche&hl=en&sa=X&ved=0ahUKEwirrpOtu7jOAhXHAMAKHdabAPgQ6AEIHjAA#v=onepage&q=%22Become%20who%20you%20are%22%20Pindar%20Nietzsche&f=false",
-    "SourceTitle": "Nietzsche: The Gay Science. Aphorism 270",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "The doer alone learneth.",
-    "SourceLink": "",
-    "SourceTitle": "Brainy",
-    "Topic": [
-      "Philosophy",
-      "Learning"
-    ]
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "He who has a why, can endure any how.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "Love is blind; friendship closes its eyes.",
-    "SourceLink": "https://books.google.com/books?id=fgLVCwAAQBAJ&pg=PT22&dq=Nietzsche++%22Love+is+blind%22&hl=en&sa=X&ved=0ahUKEwjxlbKgl7HOAhWISiYKHehnBq0Q6AEILzAD#v=onepage&q=Nietzsche%20%20%22Love%20is%20blind%22&f=false",
-    "SourceTitle": "Quotes & Facts",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "There are no facts, only interpretations.",
-    "SourceLink": "",
-    "SourceTitle": "Notebooks (Summer 1886 – Fall 1887)",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "Faith: not wanting to know what is true.",
-    "SourceLink": "",
-    "SourceTitle": "The Antichrist (1888). Sec. 52",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "The will to a system is a lack of integrity.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "In heaven, all the interesting people are missing.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "In every great man a child is hidden that wants to play.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "Convictions are more dangerous foes of truth than lies.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "The essence of all beautiful art, all great art, is gratitude.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "Necessity is not an established fact, but an interpretation.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "To forget one’s purpose is the commonest form of stupidity.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "Is life not a thousand times too short for us to bore ourselves?",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "Whatever is done for love always occurs beyond good and evil.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "No price is too high to pay for the privilege of owning yourself.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "I cannot believe in a God who wants to be praised all the time.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "The higher we soar the smaller we appear to those who cannot fly.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "Without music, life would be simply an error, exhausting toil, exile.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "There is more wisdom in your body than in your deepest philosophy.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "We have art in order not to die of the truth, and it is the proper task of life.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "We should consider every day lost on which we have not danced at least once.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "All credibility, all good conscience, all evidence of truth come only from the senses.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "You great star, what would your happiness be had you not those for whom you shine?",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "Admiration for a quality or an art can be so strong that it deters us from striving to possess it.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "The man of knowledge must be able not only to love his enemies but also to hate his friends.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "It is impossible to suffer without making someone pay for it; every complaint already contains revenge.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "There is not enough love and goodness in the world to permit giving any of it away to imaginary beings.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "The kingdom of heaven is a condition of the heart, not something that comes upon the earth or after death.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "I assess the power of a will by how much resistance, pain, torture it endures and knows how to turn to its advantage.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "Believe me! The secret of reaping the greatest fruitfulness and the greatest enjoyment from life is to live dangerously!",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "Danger alone acquaints us with our own resources, our virtues, our armor and weapons, our spirit — and forces us to be strong ...",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "There is an innocence in admiration; it is found in those to whom it has never yet occurred that they, too, might be admired some day.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "Did you ever say yes to a pleasure? Oh my friends, then you also said yes to all pain. All things are linked, entwined, in love with one another.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "He who fights with monsters might take care lest he thereby become a monster. And if you gaze for long into an abyss, the abyss gazes also into you.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "Art is not merely an imitation of the reality of nature, but in truth a metaphysical supplement to the reality of nature, placed alongside thereof for its conquest.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "Weariness that wants to reach the ultimate with one leap, with one fatal leap, a poor ignorant weariness that does not want to want any more: this created all gods and afterworlds.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "There is an innocence in admiration; it is found in those to whom it has never yet occurred that they, too, might be admired some day.  Admiration for a quality or an art can be so strong that it deters us from striving to possess it.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "O Voltaire! O humanity! O nonsense! There’s something about the “truth,” about the search for truth. And when someone goes after it in far too human a way—“il ne cherche le vrai que pour faire le bien” [he seeks the truth only to do good]—I’ll wager he comes up with nothing!",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "We invented the concept of purpose. In reality purpose is lacking. . . We are necessary, we are a piece of destiny, we belong to the whole, we are in the whole. There is nothing that could judge, measure, compare, condemn our existence, because that would be to judge, measure, compare or condemn the whole . . . But there is nothing but the whole! . . . The concept of God was until now the greatest objection against existence. We deny God, we deny our responsibility to God. Thus do we redeem the world.",
-    "SourceLink": "",
-    "SourceTitle": "Twilight of the Idols, The four great errors, 8.",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "We must be careful not to attribute heartlessness or unreason to the cosmos - nor their opposites. The cosmos is neither perfect, nor beautiful, nor noble, nor does it desire to be any of these; certainly it does not aspire to mimic humans! It is not at all affected by any or our aesthetic and moral judgements! It has no drive for self-preservation, nor any other instincts. And it has no laws. Let us not say that there are laws in nature. There are only necessities: there is no-one who commands, no-one who obeys, no-one who oversteps the mark. . . . When will all these shadows of God cease to darken us? When will we finally have rid nature of God and gods? When will we be able to begin to naturalize ourselves with a clean, newly discovered, newly liberated Nature?",
-    "SourceLink": "",
-    "SourceTitle": "The Joyful Science. p109",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Friedrich Nietzsche",
-    "QuoteText": "Three metamorphoses of the spirit do I designate to you: how the spirit becometh a camel, the camel a lion, and the lion at last a child. Many heavy things are there for the spirit, the strong load-bearing spirit in which reverence dwelleth: for the heavy and the heaviest longeth its strength. What is heavy? so asketh the load-bearing spirit; then kneeleth it down like the camel, and wanteth to be well laden. What is the heaviest thing, ye heroes? asketh the load-bearing spirit, that I may take it upon me and rejoice in my strength. Is it not this: To humiliate oneself in order to mortify one’s pride? To exhibit one’s folly in order to mock at one’s wisdom? Or is it this: To desert our cause when it celebrateth its triumph? To ascend high mountains to tempt the tempter? Or is it this: To feed on the acorns and grass of knowledge, and for the sake of truth to suffer hunger of soul? Or is it this: To be sick and dismiss comforters, and make friends of the deaf, who never hear thy requests? Or is it this: To go into foul water when it is the water of truth, and not disclaim cold frogs and hot toads? Or is it this: To love those who despise us, and give one’s hand to the phantom when it is going to frighten us? All these heaviest things the load-bearing spirit taketh upon itself: and like the camel, which, when laden, hasteneth into the wilderness, so hasteneth the spirit into its wilderness. But in the loneliest wilderness happeneth the second metamorphosis: here the spirit becometh a lion; freedom will it capture, and lordship in its own wilderness. Its last Lord it here seeketh: hostile will it be to him, and to its last God; for victory will it struggle with the great dragon. What is the great dragon which the spirit is no longer inclined to call Lord and God? ”Thou-shalt,” is the great dragon called. But the spirit of the lion saith, “I will.” “Thou-shalt,” lieth in its path, sparkling with gold–a scale-covered beast; and on every scale glittereth golden, “Thou shalt!” The values of a thousand years glitter on those scales, and thus speaketh the mightiest of all dragons:  “All the values of things–glitter on me. All values have already been created, and all created values–do I represent. Verily, there shall be no ‘I will’ any more.” Thus speaketh the dragon. My brethren, wherefore is there need of the lion in the spirit? Why sufficeth not the beast of burden, which renounceth and is reverent? To create new values–that, even the lion cannot yet accomplish: but to create itself freedom for new creating–that can the might of the lion do. To create itself freedom, and give a holy Nay even unto duty: for that, my brethren, there is need of the lion. To assume the right to new values–that is the most formidable assumption for a load-bearing and reverent spirit. Verily, unto such a spirit it is preying, and the work of a beast of prey. As its holiest, it once loved “Thou-shalt”: now is it forced to find illusion and arbitrariness even in the holiest things, that it may capture freedom from its love: the lion is needed for this capture. But tell me, my brethren, what the child can do, which even the lion could not do? Why hath the preying lion still to become a child? Innocence is the child, and forgetfulness, a new beginning, a game, a self-rolling wheel, a first movement, a holy Yea. Aye, for the game of creating, my brethren, there is needed a holy Yea unto life: ITS OWN will, willeth now the spirit; HIS OWN world winneth the world’s outcast. Three metamorphoses of the spirit have I designated to you: how the spirit became a camel, the camel a lion, and the lion at last a child. Thus spake Zarathustra!",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "Either those curtains go, or I do.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "True friends stab you in the front.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "Illusion is the first of all pleasures.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "Work is the curse of the drinking classes.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "Life is too important to be taken seriously.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "When good Americans die they go to Paris.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "Life imitates art far more than art imitates Life.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "Moderation is a fatal thing. Nothing succeeds like excess.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "If you are not too long, I will wait here for you all my life.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "The true mystery of the world is the visible, not the invisible.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "I have the simplest tastes. I am always satisfied with the best.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "One should always play fairly when one has the winning cards.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "Whenever people agree with me I always feel I must be wrong.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "I put all my genius into my life; I put only my talent into my works.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "A gentleman is one who never hurts anyone’s feelings unintentionally.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "Man can believe the impossible, but can never believe the improbable.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "Pessimist: One who, when he has the choice of two evils, chooses both.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "Life is never fair, and perhaps it is a good thing for most of us that it is not.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "The good ended happily, and the bad unhappily. That is what fiction means.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "I am so clever that sometimes I don’t understand a single word of what I am saying.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "All women become like their mothers. That is their tragedy. No man does. That’s his.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "It is absurd to divide people into good and bad. People are either charming or tedious.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "It is better to be beautiful than to be good. But... it is better to be good than to be ugly.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "No great artist ever sees things as they really are. If he did, he would cease to be an artist.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "Arguments are extremely vulgar, for everyone in good society holds exactly the same opinion.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "The old believe everything, the middle-aged suspect everything, the young know everything.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "There are only two tragedies in life: one is not getting what one wants, and the other is getting it",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "He lives the poetry that he cannot write. The others write the poetry that they dare not realize.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "It is what you read when you don’t have to that determines what you will be when you can’t help it.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "It is only by not paying one’s bills that one can hope to live in the memory of the commercial classes.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "By giving us the opinions of the uneducated, journalism keeps us in touch with the ignorance of the community.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "When I was young I thought that money was the most important thing in life; now that I am old I know that it is.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "I can stand brute force, but brute reason is quite unbearable. There is something unfair about its use. It is hitting below the intellect.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "Most people die of a sort of creeping common sense, and discover when it is too late that the only things one never regrets are one’s mistakes.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "Do you really think it is weakness that yields to temptation? I tell you that there are terrible temptations which it requires strength, strength and courage to yield to.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  },
-  {
-    "Author": "Oscar Wilde",
-    "QuoteText": "I choose my friends for their good looks, my acquaintances for their good characters, and my enemies for their intellects. A man cannot be too careful in the choice of his enemies.",
-    "SourceLink": "",
-    "SourceTitle": "",
-    "Topic": "Philosophy"
-  }
+	{
+		"Author":"Joe Armstrong",
+		"QuoteText":"The problem with object-oriented languages is they’ve got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.",
+		"SourceLink":"https:\/\/news.ycombinator.com\/item?id=5205441",
+		"SourceTitle":"Coders at Work: Reflections on the Craft of Programming",
+		"Topic":"Computer Science"
+	},
+	{
+		"Author":"Edsger W. Dijkstra",
+		"QuoteText":"Object-oriented programming is an exceptionally bad idea which could only have originated in California.",
+		"SourceLink":"",
+		"SourceTitle":"TUG LINES Issue 32.",
+		"Topic":"Computer Science"
+	},
+	{
+		"Author":"Paul Graham",
+		"QuoteText":"The object-oriented model makes it easy to build up programs by accretion. What this often means, in practice, is that it provides a structured way to write spaghetti code.",
+		"SourceLink":"",
+		"SourceTitle":"Hacker News",
+		"Topic":"Computer Science"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"Become who you are!",
+		"SourceLink":"https:\/\/books.google.it\/books?id=Vf8KETLiKXMC&pg=PA152&dq=%22Become+who+you+are%22+Pindar+Nietzsche&hl=en&sa=X&ved=0ahUKEwirrpOtu7jOAhXHAMAKHdabAPgQ6AEIHjAA#v=onepage&q=%22Become%20who%20you%20are%22%20Pindar%20Nietzsche&f=false",
+		"SourceTitle":"Nietzsche: The Gay Science. Aphorism 270",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"The doer alone learneth.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":[
+			"Philosophy",
+			"Learning"
+		]
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"He who has a why, can endure any how.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"Love is blind; friendship closes its eyes.",
+		"SourceLink":"https:\/\/books.google.com\/books?id=fgLVCwAAQBAJ&pg=PT22&dq=Nietzsche++%22Love+is+blind%22&hl=en&sa=X&ved=0ahUKEwjxlbKgl7HOAhWISiYKHehnBq0Q6AEILzAD#v=onepage&q=Nietzsche%20%20%22Love%20is%20blind%22&f=false",
+		"SourceTitle":"Quotes & Facts",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"There are no facts, only interpretations.",
+		"SourceLink":"",
+		"SourceTitle":"Notebooks (Summer 1886 – Fall 1887)",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"Faith: not wanting to know what is true.",
+		"SourceLink":"",
+		"SourceTitle":"The Antichrist (1888). Sec. 52",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"The will to a system is a lack of integrity.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"In heaven, all the interesting people are missing.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"In every great man a child is hidden that wants to play.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"Convictions are more dangerous foes of truth than lies.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"The essence of all beautiful art, all great art, is gratitude.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"Necessity is not an established fact, but an interpretation.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"To forget one’s purpose is the commonest form of stupidity.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"Is life not a thousand times too short for us to bore ourselves?",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"Whatever is done for love always occurs beyond good and evil.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"No price is too high to pay for the privilege of owning yourself.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"I cannot believe in a God who wants to be praised all the time.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"The higher we soar the smaller we appear to those who cannot fly.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"Without music, life would be simply an error, exhausting toil, exile.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"There is more wisdom in your body than in your deepest philosophy.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"We have art in order not to die of the truth, and it is the proper task of life.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"We should consider every day lost on which we have not danced at least once.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"All credibility, all good conscience, all evidence of truth come only from the senses.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"You great star, what would your happiness be had you not those for whom you shine?",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"Admiration for a quality or an art can be so strong that it deters us from striving to possess it.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"The man of knowledge must be able not only to love his enemies but also to hate his friends.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"It is impossible to suffer without making someone pay for it; every complaint already contains revenge.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"There is not enough love and goodness in the world to permit giving any of it away to imaginary beings.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"The kingdom of heaven is a condition of the heart, not something that comes upon the earth or after death.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"I assess the power of a will by how much resistance, pain, torture it endures and knows how to turn to its advantage.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"Believe me! The secret of reaping the greatest fruitfulness and the greatest enjoyment from life is to live dangerously!",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"Danger alone acquaints us with our own resources, our virtues, our armor and weapons, our spirit — and forces us to be strong ...",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"There is an innocence in admiration; it is found in those to whom it has never yet occurred that they, too, might be admired some day.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"Did you ever say yes to a pleasure? Oh my friends, then you also said yes to all pain. All things are linked, entwined, in love with one another.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"He who fights with monsters might take care lest he thereby become a monster. And if you gaze for long into an abyss, the abyss gazes also into you.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"Art is not merely an imitation of the reality of nature, but in truth a metaphysical supplement to the reality of nature, placed alongside thereof for its conquest.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"Weariness that wants to reach the ultimate with one leap, with one fatal leap, a poor ignorant weariness that does not want to want any more: this created all gods and afterworlds.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"There is an innocence in admiration; it is found in those to whom it has never yet occurred that they, too, might be admired some day.  Admiration for a quality or an art can be so strong that it deters us from striving to possess it.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"O Voltaire! O humanity! O nonsense! There’s something about the “truth,” about the search for truth. And when someone goes after it in far too human a way—“il ne cherche le vrai que pour faire le bien” [he seeks the truth only to do good]—I’ll wager he comes up with nothing!",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"We invented the concept of purpose. In reality purpose is lacking. . . We are necessary, we are a piece of destiny, we belong to the whole, we are in the whole. There is nothing that could judge, measure, compare, condemn our existence, because that would be to judge, measure, compare or condemn the whole . . . But there is nothing but the whole! . . . The concept of God was until now the greatest objection against existence. We deny God, we deny our responsibility to God. Thus do we redeem the world.",
+		"SourceLink":"",
+		"SourceTitle":"Twilight of the Idols, The four great errors, 8.",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"We must be careful not to attribute heartlessness or unreason to the cosmos - nor their opposites. The cosmos is neither perfect, nor beautiful, nor noble, nor does it desire to be any of these; certainly it does not aspire to mimic humans! It is not at all affected by any or our aesthetic and moral judgements! It has no drive for self-preservation, nor any other instincts. And it has no laws. Let us not say that there are laws in nature. There are only necessities: there is no-one who commands, no-one who obeys, no-one who oversteps the mark. . . . When will all these shadows of God cease to darken us? When will we finally have rid nature of God and gods? When will we be able to begin to naturalize ourselves with a clean, newly discovered, newly liberated Nature?",
+		"SourceLink":"",
+		"SourceTitle":"The Joyful Science. p109",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Friedrich Nietzsche",
+		"QuoteText":"Three metamorphoses of the spirit do I designate to you: how the spirit becometh a camel, the camel a lion, and the lion at last a child. Many heavy things are there for the spirit, the strong load-bearing spirit in which reverence dwelleth: for the heavy and the heaviest longeth its strength. What is heavy? so asketh the load-bearing spirit; then kneeleth it down like the camel, and wanteth to be well laden. What is the heaviest thing, ye heroes? asketh the load-bearing spirit, that I may take it upon me and rejoice in my strength. Is it not this: To humiliate oneself in order to mortify one’s pride? To exhibit one’s folly in order to mock at one’s wisdom? Or is it this: To desert our cause when it celebrateth its triumph? To ascend high mountains to tempt the tempter? Or is it this: To feed on the acorns and grass of knowledge, and for the sake of truth to suffer hunger of soul? Or is it this: To be sick and dismiss comforters, and make friends of the deaf, who never hear thy requests? Or is it this: To go into foul water when it is the water of truth, and not disclaim cold frogs and hot toads? Or is it this: To love those who despise us, and give one’s hand to the phantom when it is going to frighten us? All these heaviest things the load-bearing spirit taketh upon itself: and like the camel, which, when laden, hasteneth into the wilderness, so hasteneth the spirit into its wilderness. But in the loneliest wilderness happeneth the second metamorphosis: here the spirit becometh a lion; freedom will it capture, and lordship in its own wilderness. Its last Lord it here seeketh: hostile will it be to him, and to its last God; for victory will it struggle with the great dragon. What is the great dragon which the spirit is no longer inclined to call Lord and God? ”Thou-shalt,” is the great dragon called. But the spirit of the lion saith, “I will.” “Thou-shalt,” lieth in its path, sparkling with gold–a scale-covered beast; and on every scale glittereth golden, “Thou shalt!” The values of a thousand years glitter on those scales, and thus speaketh the mightiest of all dragons:  “All the values of things–glitter on me. All values have already been created, and all created values–do I represent. Verily, there shall be no ‘I will’ any more.” Thus speaketh the dragon. My brethren, wherefore is there need of the lion in the spirit? Why sufficeth not the beast of burden, which renounceth and is reverent? To create new values–that, even the lion cannot yet accomplish: but to create itself freedom for new creating–that can the might of the lion do. To create itself freedom, and give a holy Nay even unto duty: for that, my brethren, there is need of the lion. To assume the right to new values–that is the most formidable assumption for a load-bearing and reverent spirit. Verily, unto such a spirit it is preying, and the work of a beast of prey. As its holiest, it once loved “Thou-shalt”: now is it forced to find illusion and arbitrariness even in the holiest things, that it may capture freedom from its love: the lion is needed for this capture. But tell me, my brethren, what the child can do, which even the lion could not do? Why hath the preying lion still to become a child? Innocence is the child, and forgetfulness, a new beginning, a game, a self-rolling wheel, a first movement, a holy Yea. Aye, for the game of creating, my brethren, there is needed a holy Yea unto life: ITS OWN will, willeth now the spirit; HIS OWN world winneth the world’s outcast. Three metamorphoses of the spirit have I designated to you: how the spirit became a camel, the camel a lion, and the lion at last a child. Thus spake Zarathustra!",
+		"SourceLink":"",
+		"SourceTitle":"Preface to Thus spake Zarathustra",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"Either those curtains go, or I do.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"True friends stab you in the front.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"Illusion is the first of all pleasures.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"Work is the curse of the drinking classes.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"Life is too important to be taken seriously.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"When good Americans die they go to Paris.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"Life imitates art far more than art imitates Life.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"Moderation is a fatal thing. Nothing succeeds like excess.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"If you are not too long, I will wait here for you all my life.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"The true mystery of the world is the visible, not the invisible.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"I have the simplest tastes. I am always satisfied with the best.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"One should always play fairly when one has the winning cards.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"Whenever people agree with me I always feel I must be wrong.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"I put all my genius into my life; I put only my talent into my works.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"A gentleman is one who never hurts anyone’s feelings unintentionally.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"Man can believe the impossible, but can never believe the improbable.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"Pessimist: One who, when he has the choice of two evils, chooses both.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"Life is never fair, and perhaps it is a good thing for most of us that it is not.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"The good ended happily, and the bad unhappily. That is what fiction means.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"I am so clever that sometimes I don’t understand a single word of what I am saying.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"All women become like their mothers. That is their tragedy. No man does. That’s his.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"It is absurd to divide people into good and bad. People are either charming or tedious.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"It is better to be beautiful than to be good. But... it is better to be good than to be ugly.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"No great artist ever sees things as they really are. If he did, he would cease to be an artist.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"Arguments are extremely vulgar, for everyone in good society holds exactly the same opinion.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"The old believe everything, the middle-aged suspect everything, the young know everything.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"There are only two tragedies in life: one is not getting what one wants, and the other is getting it",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"He lives the poetry that he cannot write. The others write the poetry that they dare not realize.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"It is what you read when you don’t have to that determines what you will be when you can’t help it.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"It is only by not paying one’s bills that one can hope to live in the memory of the commercial classes.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"By giving us the opinions of the uneducated, journalism keeps us in touch with the ignorance of the community.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"When I was young I thought that money was the most important thing in life; now that I am old I know that it is.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"Education is an admirable thing, but it is well to remember from time to time that nothing that is worth knowing can be taught.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"I can stand brute force, but brute reason is quite unbearable. There is something unfair about its use. It is hitting below the intellect.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"Most people die of a sort of creeping common sense, and discover when it is too late that the only things one never regrets are one’s mistakes.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"Do you really think it is weakness that yields to temptation? I tell you that there are terrible temptations which it requires strength, strength and courage to yield to.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Oscar Wilde",
+		"QuoteText":"I choose my friends for their good looks, my acquaintances for their good characters, and my enemies for their intellects. A man cannot be too careful in the choice of his enemies.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Voltaire",
+		"QuoteText":"We never live; we are always in the expectation of living.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Voltaire",
+		"QuoteText":"Doubt is not a pleasant condition, but certainty is absurd.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Voltaire",
+		"QuoteText":"God is a comedian, playing to an audience too afraid to laugh.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Voltaire",
+		"QuoteText":"Chance is a word void of sense; nothing can exist without a cause.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Voltaire",
+		"QuoteText":"He was a great patriot, a humanitarian, a loyal friend; provided, of course, he really is dead.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Voltaire",
+		"QuoteText":"Anyone who has the power to make you believe absurdities has the power to make you commit injustices.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Voltaire",
+		"QuoteText":"I have never made but one prayer to God, a very short one: O Lord make my enemies ridiculous. And God granted it.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Leonardo da Vinci",
+		"QuoteText":"All our knowledge has its origins in our perceptions.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Leonardo da Vinci",
+		"QuoteText":"Where the spirit does not work with the hand, there is no art.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Leonardo da Vinci",
+		"QuoteText":"You can have no dominion greater or less than that over yourself.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Leonardo da Vinci",
+		"QuoteText":"As a well-spent day brings happy sleep, so a life well spent brings happy death.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Leonardo da Vinci",
+		"QuoteText":"Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigor of the mind.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Leonardo da Vinci",
+		"QuoteText":"Every man is guilty of all the good he did not do.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Leonardo da Vinci",
+		"QuoteText":"You do ill if you praise, but worse if you censure, what you do not understand.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Leonardo da Vinci",
+		"QuoteText":"The poet ranks far below the painter in the representation of visible things, and far below the musician in that of invisible things.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Leonardo da Vinci",
+		"QuoteText":"Human subtlety will never devise an invention more beautiful, more simple or more directhan does nature because in her inventions nothing is lacking, and nothing is superfluous.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Leonardo da Vinci",
+		"QuoteText":"Although nature commences with reason and ends in experience it is necessary for us to do the opposite, that is to commence with experience and from this to proceed to investigate the reason.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Soren Kierkegaard",
+		"QuoteText":"Be that self which one truly is.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Soren Kierkegaard",
+		"QuoteText":"Anxiety is the dizziness of freedom.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Soren Kierkegaard",
+		"QuoteText":"Irony: a cleaning baptism that redeems the soul.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Soren Kierkegaard",
+		"QuoteText":"Personality is only ripe when a man has made the truth his own.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Soren Kierkegaard",
+		"QuoteText":"Boredom is the root of all evil - the despairing refusal to be oneself.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Soren Kierkegaard",
+		"QuoteText":"Life has its own hidden forces which you can only discover by living.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Soren Kierkegaard",
+		"QuoteText":"Life can only be understood backwards; but it must be lived forwards.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Soren Kierkegaard",
+		"QuoteText":"To dare is to lose one's footing momentarily. Not to dare is to lose oneself.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Soren Kierkegaard",
+		"QuoteText":"Face the facts of being what you are, for that is what changes what you are.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Soren Kierkegaard",
+		"QuoteText":"People demand freedom of speech as a compensation for the freedom of thought which they seldom use.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Soren Kierkegaard",
+		"QuoteText":"It belongs to the imperfection of everything human that man can only attain his desire by passing through its opposite.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Soren Kierkegaard",
+		"QuoteText":"Since my earliest childhood a barb of sorrow has lodged in my heart. As long as it stays I am ironic if it is pulled out I shall die.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Soren Kierkegaard",
+		"QuoteText":"There is nothing with which every man is so afraid as getting to know how enormously much he is capable of doing and becoming. ",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Soren Kierkegaard",
+		"QuoteText":"The truth is a snare: you cannot have it, without being caught. You cannot have the truth in such a way that you catch it, but only in such a way that it catches you.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Soren Kierkegaard",
+		"QuoteText":"Because of its tremendous solemnity death is the light in which great passions, both good and bad, become transparent, no longer limited by outward appearences.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Soren Kierkegaard",
+		"QuoteText":"There are, as is known, insects that die in the moment of fertilization. So it is with all joy: life's highest, most splendid moment of enjoyment is accompanied by death.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Soren Kierkegaard",
+		"QuoteText":"What is a poet? An unhappy person who conceals profound anguish in his heart but whose lips are so formed that as sighs and cries pass over them they sound like beautiful music.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Soren Kierkegaard",
+		"QuoteText":"I see it all perfectly; there are two possible situations - one can either do this or that. My honest opinion and my friendly advice is this: do it or do not do it - you will regret both.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Soren Kierkegaard",
+		"QuoteText":"Listen to the cry of a woman in labor at the hour of giving birth - look at the dying man's struggle at his last extremity, and then tell me whether something that begins and ends thus could be intended for enjoyment.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"Follow your bliss.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"Love is a friendship set to music.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"I don't have to have faith, I have experience.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"The privilege of a lifetime is being who you are.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"Myths are public dreams, dreams are private myths.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"Your sacred space is where you can find yourself again and again.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"Find a place inside where there's joy, and the joy will burn out the pain.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"A hero is someone who has given his or her life to something bigger than oneself.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"We must let go of the life we have planned, so as to accept the one that is waiting for us.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"The big question is whether you are going to be able to say a hearty yes to your adventure.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"Opportunities to find deeper powers within ourselves come when life seems most challenging.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"God is a word, a metaphor for that which transcends all levels of intellectual thought. It's as simple as that.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"The goal of life is to make your heartbeat match the beat of the universe, to match your nature with Nature.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"It is by going down into the abyss that we recover the treasures of life. Where you stumble, there lies your treasure.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"I think the person who takes a job in order to live - that is to say, for the money - has turned himself into a slave.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"Participate joyfully in the sorrows of the world. We cannot cure the world of sorrows, but we can choose to live in joy.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"I don't believe people are looking for the meaning of life as much as they are looking for the experience of being alive.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"Life is without meaning. You bring the meaning to it. The meaning of life is whatever you ascribe it to be. Being alive is the meaning.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"When we quit thinking primarily about ourselves and our own self-preservation, we undergo a truly heroic transformation of consciousness.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"One way or another, we all have to find what best fosters the flowering of our humanity in this contemporary life, and dedicate ourselves to that.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"If you can see your path laid out in front of you step by step, you know it's not your path. Your own path you make with every step you take. That's why it's your path.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"We're so engaged in doing things to achieve purposes of outer value that we forget the inner value, the rapture that is associated with being alive, is what it is all about.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"Every religion is only true as a metaphor of the human and cosmic mysteries. But when it gets stuck in its own metaphors, interpreting them as facts, then you are in trouble.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"When people get married because they think it's a long-time love affair, they'll be divorced very soon, because all love affairs end in disappointment. But marriage is a recognition of a spiritual identity.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"What each must seek in his life never was on land or sea. It is something out of his own unique potentiality for experience, something that never has been and never could have been experienced by anyone else.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"Follow your bliss. If you do follow your bliss, you put yourself on a kind of track that has been there all the while waiting for you, and the life you ought to be living is the one you are living. When you can see that, you begin to meet people who are in the field of your bliss, and they open the doors to you. I say, follow your bliss and don't be afraid, and doors will open where you didn't know they were going to be. If you follow your bliss, doors will open for you that wouldn't have opened for anyone else.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Joseph Campbell",
+		"QuoteText":"Nietzsche was the one who did the job for me. At a certain moment in his life, the idea came to him of what he called 'the love of your fate'. Whatever your fate is, whatever the hell happens, you say, 'This is what I need.' It may look like a wreck, but go at it as though it were an opportunity, a challenge. If you bring love to that moment - not discouragement - you will find the strength is there. Any disaster that you can survive is an improvement in your character, your stature, and your life. What a privilege! This is when the spontaneity of your own nature will have a chance to flow. Then, when looking back at your life, you will see that the moments which seemed to be great failures followed by wreckage were the incidents that shaped the life you have now. You'll see that this is really true. Nothing can happen to you that is not positive. Even though it looks and feels at the moment like a negative crisis, it is not. The crisis throws you back, and when you are required to exhibit strength, it comes.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"Drunkenness is temporary suicide.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"Extreme hopes are born from extreme misery.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"The only thing that will redeem mankind is cooperation.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"I would never die for my beliefs because I might be wrong.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"Patriotism is the willingness to kill and be killed for trivial reasons.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"The secret to happiness is to face the fact that the world is horrible.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"Reason is a harmonizing, controlling force rather than a creative one.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"Men are born ignorant, not stupid. They are made stupid by education.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"I believe in my outrage knowing people are living in boxes on the street.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"Life is nothing but a competition to be the criminal rather than the victim.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"To fear love is to fear life, and those who fear life are already three parts dead.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"The degree of one's emotions varies inversely with one's knowledge of the facts.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"The demand for certainty is one which is natural to man, but is nevertheless an intellectual vice.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"Italy, the Spring, and first love all together should suffice to make the gloomiest person happy.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"Order, unity, and continuity are human inventions, just as truly as catalogues and encyclopedias.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"Boredom is... a vital problem for the moralist, since half the sins of mankind are caused by the fear of it.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"Ethics is in origin the art of recommending to others the sacrifices required for cooperation with oneself.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"One of the symptoms of an approaching nervous breakdown is the belief that one's work is terribly important.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"Next to enjoying ourselves, the next greatest pleasure consists in preventing others from enjoying themselves.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"If all our happiness is bound up entirely in our personal circumstances it is difficult not to demand of life more.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"A happy life must be to a great extent a quiet life, for it is only in an atmosphere of quiet that true joy dare live.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"Both in thought and in feeling, even though time be real, to realize the unimportance of time is the gate of wisdom.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"In all affairs it's a healthy thing now and then to hang a question mark on the things you have long taken for granted.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"Mathematics may be defined as the subject in which we never know what we are talking about, nor whether what we are saying is true.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"Freedom comes only to those who no longer ask of life that it shall yield them any of those personal goods that are subject to the mutations of time.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"The observer, when he seems to himself to be observing a stone, is really, if physics is to be believed, observing the effects of the stone upon himself.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"I say quite deliberately that the Christian religion, as organized in its Churches, has been and still is the principal enemy of moral progress in the world.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"I think we ought always to entertain our opinions with some measure of doubt. I shouldn't wish people dogmatically to believe any philosophy, not even mine.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"I do not pretend to start with precise questions. I do not think you can start with anything precise. You have to achieve such precision as you can, as you go along.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"It is possible that mankind is on the threshold of a golden age; but, if so, it will be necessary first to slay the dragon that guards the door, and this dragon is religion.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"Many a man will have the courage to die gallantly, but will not have the courage to say, or even to think, that the cause for which he is asked to die is an unworthy one.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"To teach how to live without certainty and yet without being paralyzed by hesitation is perhaps the chief thing that philosophy, in our age, can do for those who study it.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"The slave is doomed to worship time and fate and death, because they are greater than anything he finds in himself, and because all his thoughts are of things which they devour.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"I've made an odd discovery. Every time I talk to a savant I feel quite sure that happiness is no longer a possibility. Yet when I talk with my gardener, I'm convinced of the opposite.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"The true spirit of delight, the exaltation, the sense of being more than Man, which is the touchstone of the highest excellence, is to be found in mathematics as surely as poetry.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"One should respect public opinion insofar as is necessary to avoid starvation and keep out of prison, but anything that goes beyond this is voluntary submission to an unnecessary tyranny.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"If there were in the world today any large number of people who desired their own happiness more than they desired the unhappiness of others, we could have a paradise in a few years.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"I like mathematics because it is not human and has nothing particular to do with this planet or with the whole accidental universe - because, like Spinoza's God, it won't love us in return.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"The secret of happiness is this: let your interests be as wide as possible, and let your reactions to the things and persons that interest you be as far as possible friendly rather than hostile.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"Love is something far more than desire for sexual intercourse; it is the principal means of escape from the loneliness which afflicts most men and women throughout the greater part of their lives.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"Advocates of capitalism are very apt to appeal to the sacred principles of liberty, which are embodied in one maxim: The fortunate must not be restrained in the exercise of tyranny over the unfortunate.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"Dogmatism and skepticism are both, in a sense, absolute philosophies; one is certain of knowing, the other of not knowing. What philosophy should dissipate is certainty, whether of knowledge or ignorance.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Bertrand Russell",
+		"QuoteText":"We know too much and feel too little. At least we feel too little of those creative emotions from which a good life springs.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Ludwig Wittgenstein",
+		"QuoteText":"The human body is the best picture of the human soul.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Thomas Fuller",
+		"QuoteText":"Seeing is believing, but feeling's the truth.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Henry Ward Beecher",
+		"QuoteText":"Hold yourself responsible for a higher standard than anybody else expects of you.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Bruce Barton",
+		"QuoteText":"Nothing splendid has ever been achieved except by those who dared believe that something inside of them was superior to circumstance.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Walt Whitman",
+		"QuoteText":"Charity and personal force are the only investments.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Ralph Waldo Emerson",
+		"QuoteText":"Go put your creed into your deed.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Menicus",
+		"QuoteText":"The great man is he that does not lose his child's-heart.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Ralph Waldo Emerson",
+		"QuoteText":"Every man is an impossibility until he is born.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Unknown",
+		"QuoteText":"The devil is in the details",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Unknown",
+		"QuoteText":"The juice is worth the squeeze.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Avenue Q",
+		"QuoteText":"Life may be scary, but it's only temporary.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Avenue Q",
+		"QuoteText":"We will either find a way or make one.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Hellen Keller",
+		"QuoteText":"Life is either a daring adventure or nothing.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Thomas Edison",
+		"QuoteText":"I am not discouraged, because every wrong attempt discarded is another step forward.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Henery David Thoreau",
+		"QuoteText":"I know of no more encouraging fact than the unquestionable ability of man to elevate his life by a conscious endeavor.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Donald Curtis",
+		"QuoteText":"We are what and where we are because we have first imagined it.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Orison Martin",
+		"QuoteText":"Deep within man dwell those slumbering power, powers that would astonish him, that he never dreamed of possesing, forces that would revolutionized if aroused and put into action",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Ashleigh Brilliant",
+		"QuoteText":"Life is the only game in which the object of the game is to learn the rules.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Princess Bride",
+		"QuoteText":"Life is pain. Anyone who says differently is selling something",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Boris Pasternak",
+		"QuoteText":"Man is born to live and not to prepare to live.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Boris Pasternak",
+		"QuoteText":"Man is not the creature of circumstances, circumstances are the creatures of men.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Benjamin Disralei",
+		"QuoteText":"A consistent man believes in destiny, a capricious 1 man in chance.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Benjamin Disralei",
+		"QuoteText":"Nothing can resist the human will that will stake even its existence on its stated purpose.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Johann Wolfgang Von Goethe",
+		"QuoteText":"Concerning all acts of initiative and creation, there is one elementary truth---that the moment one definitely commits oneself, then Providence moves, too.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Mark Twain",
+		"QuoteText":"There is nothing training cannot do. Nothing is above its reach. It can turn bad morals to good; it can destroy bad principles and recreate good ones; it can lift men to angelship.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Charles De Gaulle",
+		"QuoteText":"Nothing great will ever be achieved without great men, and men are great only if they are determined to be so.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Arthur C. Clarke",
+		"QuoteText":"The only way to discover the limits of the possible is to go beyond them into the impossible.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Walt Whitman",
+		"QuoteText":"I believe a leaf of grass is no less than the journey-work of the stars.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Tony Robbins",
+		"QuoteText":"It is in the moments  of decision that your destiny is shaped.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Winston Churchill",
+		"QuoteText":"If you're going through hell, keep going.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Ken Chlouber",
+		"QuoteText":"Make friends with pain and you will never be alone.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Carl Sandburg",
+		"QuoteText":"Nothing happens unless first a dream.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Aristotle",
+		"QuoteText":"We are what we repeatedly do.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Nathaniel Emmons",
+		"QuoteText":"Habit is either the best of servants or the worst of masters.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"John Dryden",
+		"QuoteText":"We first make our habits, and then our habits make us.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Henry David Thoreau",
+		"QuoteText":"Things do not change; we change.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Henry David Thoreau",
+		"QuoteText":"All perception of truth is the detection of an analogy.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Unknown",
+		"QuoteText":"He begins to die that quits his desires.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Henry David Thoreau",
+		"QuoteText":"Any fool can make a rule---And every fool will mind it.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Buddha",
+		"QuoteText":"We are what we think. All that we are arises With our thoughts. With our thoughts, We make our world.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Orison Swett Marden",
+		"QuoteText":"We lift ourselves by our thought, we climb upon our vision of ourselves.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Edgar Allen Poe",
+		"QuoteText":"I became insane, with long intervals of horrible sanity.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Edmund Spenser",
+		"QuoteText":"It is the mind that maketh good of ill, that maketh wretch or happy, rich or poor.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Antonio Machado",
+		"QuoteText":"Under all that we think, lives all we believe, like the ultimate veil of our spirits.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Tony Robbins",
+		"QuoteText":"The only thing that is stopping you is a limiting belief",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Tony Robbins",
+		"QuoteText":"You are the master designer of your life",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Tony Robbins",
+		"QuoteText":"The quality of your life is where you life emotionally",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Tony Robbins",
+		"QuoteText":"Activity without purpose is the drain to your life.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Tony Robbins",
+		"QuoteText":"Be humble or be humbled,",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Tony Robbins",
+		"QuoteText":"Life's not about me its about we",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Tony Robbins",
+		"QuoteText":"The secret to living is giving",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Tony Robbins",
+		"QuoteText":"The secret of success is learning how to use pain and pleasure instead of having pain and pleasure use you. If you do that, you're in control of your life. If you don't, life controls you.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"George Louis De Buffon",
+		"QuoteText":"Genius is nothing but a great aptitude for patience.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Learning"
+	},
+	{
+		"Author":"Michel De Montaigne",
+		"QuoteText":"A man who fears suffering is already suffering from what he fears.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Unknown",
+		"QuoteText":"The cure for depression has been found: nobel deeds, hot baths, and prozac.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Rene Descartes",
+		"QuoteText":"It is not enough to have a good mind; the main thing is to use it well.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Victor Hugo",
+		"QuoteText":"His supreme agony190 was the disappearance of certainty, and he felt himself uprooted.. . Oh! what a frightful thing! The man projectile, no longer knowing his road, and recoiling!",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Sir Thomas Browne",
+		"QuoteText":"Men live by intervals of reason under the sovereignty of humor and passion.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Andre Gide",
+		"QuoteText":"The belief that becomes truth for me ... is that which allows me the best use of my strength, the best means of putting my virtues into action.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"George Bernard Shaw",
+		"QuoteText":"Some men see things as they are, and say, 'Why?' I dream of things that never were, and say, 'Why not?'",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Ralph Waldo Emmerson",
+		"QuoteText":"Every great and commanding moment in the annals of the world is the triumph of some enthusiasm.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Marcus Arelius",
+		"QuoteText":"If you are distressed by anything external, the pain is not due to the thing itself but to your own estimate of it; and this you have the power to revoke at any moment.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Lord Chesterfield",
+		"QuoteText":"Men, as well as women, are much oftener led by their hearts than by their understandings.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Michel De Montaigne",
+		"QuoteText":"I conceive that pleasures are to be avoided if greater pains be the consequence, and pains to be coveted that will terminate in greater pleasures.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Jeremy Bentham",
+		"QuoteText":"Nature has placed mankind under the government of two sovereign masters, pain and pleasure . .. they govern us in all we do, in all we say, in all we think: every effort we can make to throw off our subjection, will serve but to demonstrate and confirm it.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Buddha",
+		"QuoteText":"As the fletcher whittles and makes straight his arrows, so the master directs his straying thoughts.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Joseph Conrad",
+		"QuoteText":"Only in men's imagination does every truth find an effective and undeniable existence. Imagination, not invention, is the supreme master of art, as of life.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"John Locke",
+		"QuoteText":"Good and evil, reward and punishment, are the only motives to a rational creature: these are the spur and reins whereby all mankind are set on work, and guided.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Orison Swett Marden",
+		"QuoteText":"The beginning of a habit is like an invisible thread, but every time we repeat the act we strengthen the strand, add to it another filament, until it becomes a great cable and binds us irrevocably, thought and act.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Mind"
+	},
+	{
+		"Author":"Arthur Schopenhauer",
+		"QuoteText":"All truth goes through three steps. First, it is ridiculed. Second, it is violently opposed. Finally, it is accepted as self-evident.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Philosophy"
+	},
+	{
+		"Author":"Ralph Waldo Emerson",
+		"QuoteText":"To the dull mind all nature is leaden. To the illumined mind the whole world burns and sparkles with light.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Mind"
+	},
+	{
+		"Author":"Antoine De Saint-exupery",
+		"QuoteText":"It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Edgar Allen Poe",
+		"QuoteText":"I became insane, with long intervals of horrible sanity.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Humor"
+	},
+	{
+		"Author":"Plato",
+		"QuoteText":"The price of apathy towards public affairs is to be ruled by evil men.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Life"
+	},
+	{
+		"Author":"Salvador Dali",
+		"QuoteText":"I don't do drugs. I am drugs.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Art"
+	},
+	{
+		"Author":"Oliver Wendell Holmes Jr.",
+		"QuoteText":"Life is painting a picture, not doing a sum.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Art"
+	},
+	{
+		"Author":"Pablo Picasso",
+		"QuoteText":"Good artists copy, but great artists steal.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Art"
+	},
+	{
+		"Author":"John Donne",
+		"QuoteText":"Art is the most passionate orgy within man's grasp.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Art"
+	},
+	{
+		"Author":"Salvador Dali",
+		"QuoteText":"Those who do not want to imitate anything, produce nothing.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Art"
+	},
+	{
+		"Author":"Edgar Howe",
+		"QuoteText":"When people hear good music, it makes them homesick for something they never had, and never will have.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Art"
+	},
+	{
+		"Author":"Ludwig Van Beethoven",
+		"QuoteText":"Music is the wine which inspires one to new generative processes, and I am Bacchus who presses out this glorious wine for mankind and makes them spiritually drunken.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Art"
+	},
+	{
+		"Author":"Picasso",
+		"QuoteText":"We all know that Art is not truth. Art is a lie that makes us realize truth at least the truth that is given us to understand. The artist must know the manner whereby to convince others of the truthfulness of his lies.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Art"
+	},
+	{
+		"Author":"James Sollami",
+		"QuoteText":"How your friends treat others is how they will someday treat you.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Relationships"
+	},
+	{
+		"Author":"Lao Tzu",
+		"QuoteText":"Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Relationships"
+	},
+	{
+		"Author":"T.e. Kalem",
+		"QuoteText":"A final comfort that is small, but not cold: The heart is the only broken instrument that works.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Relationships"
+	},
+	{
+		"Author":"Unknown",
+		"QuoteText":"There is no such thing as love. But this secret knowledge is not practical, so it is best to forget when in the company of others.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Relationships"
+	},
+	{
+		"Author":"Ralph Waldo Emerson",
+		"QuoteText":"The best effect of fine persons is felt after we have left their presence.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Relationships"
+	},
+	{
+		"Author":"Donald Knuth",
+		"QuoteText":"Let us change our traditional attitude to the construction of programs: Instead of imagining that our main task is to instruct a computer what to do, let us concentrate rather on explaining to humans what we want the computer to do.",
+		"SourceLink":"",
+		"SourceTitle":"Literate Programming, 1984.",
+		"Topic":"Computer Science"
+	},
+	{
+		"Author":"Dick Feynman",
+		"QuoteText":"Hell, if I could explain it to the average person, it wouldn't have been worth the Nobel prize.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Science"
+	},
+	{
+		"Author":"Dick Feynman",
+		"QuoteText":"Science is the belief in the ignorance of experts.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Science"
+	},
+	{
+		"Author":"Alfred Whitehead",
+		"QuoteText":"The ultimate goal of mathematics is to eliminate any need for intelligent thought.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Mathematics"
+	},
+	{
+		"Author":"J Robert Oppenheimer",
+		"QuoteText":"The optimist thinks this is the best of all possible worlds. The pessimist fears it is true",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Richard Feynman",
+		"QuoteText":"The theoretical broadening which comes from having many humanities subjects on the campus is offset by the general dopiness of the people who study these things.",
+		"SourceLink":"",
+		"SourceTitle":"letter to Robert Bacher (6 April 1950)",
+		"Topic":""
+	},
+	{
+		"Author":"Jewel",
+		"QuoteText":"Poverty stole your golden shoe, it didn't steal hereafter.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Unkown",
+		"QuoteText":"Dream. Then demand your dream.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Unknown",
+		"QuoteText":"Life begins outside of your comfort zone.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"John Donne",
+		"QuoteText":"Be thine own palace, or the world's thy jail.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Sam Harris",
+		"QuoteText":"To not believe in god to to know that it falls to us to make the world a better place",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Unkown",
+		"QuoteText":"Do not disdain self-pity, for sometimes it is one's only friend.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Edgar Allen Poe",
+		"QuoteText":"Is all that we see or seem, but a dream within a dream?",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Michel De Montaigne",
+		"QuoteText":"Lend yourself to others, but give yourself to yourself.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"E. E. Cummings",
+		"QuoteText":"Always the beautiful answer who asks a more beautiful question.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Steve Prefontaine",
+		"QuoteText":"To give anything less than your best is to sacrifice the gift.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Steve Jobs",
+		"QuoteText":"Well, you know, the goal is not to be the richest man in the cemetery.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Unknown",
+		"QuoteText":"Greatness is not where you stand, it is the direction you are moving in.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Paul Feyerabend",
+		"QuoteText":"The only principle that does not inhibit progress is: anything goes.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"John Donne",
+		"QuoteText":"I am two fools, I know, for loving, and for saying so in whining poetry.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Charles De Montesquieu",
+		"QuoteText":"If the triangles made a god, they would give him three sides.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Avenue Q",
+		"QuoteText":"You've go to go after the things you want while you're still in your prime.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Carl Sagan",
+		"QuoteText":"For small creatures such as we the vastness is bearable only through love.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Steve Prefontaine",
+		"QuoteText":"Somebody may beat me, but they are going to have to bleed to do it.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Carl Sagan",
+		"QuoteText":"In order to make an apple pie from scratch, you must first create the universe.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Richard Dawkins",
+		"QuoteText":"As ever when we unweave a rainbow, it will not become less wonderful",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"David Hasselhoff",
+		"QuoteText":"There are many dying children out there whose last wish is to meet me.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Lao Tzu",
+		"QuoteText":"A scholar who cherishes the love of comfort is not fit to be deemed a scholar.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Charles De Montesquieu",
+		"QuoteText":"In most things success depends on knowing how long it takes to succeed.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Michel De Montaigne",
+		"QuoteText":"The beautiful souls are they that are universal, open, and ready for all things.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Abraham Lincoln",
+		"QuoteText":"Things may come to those who wait, but only the things left by those who hustle.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Robert M. Pirsig",
+		"QuoteText":"Metaphysics is a restaurant where they give you a thirty thousand page menu, and no food.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Salvador Dali",
+		"QuoteText":"Each morning when I awake, I experience again a supreme pleasure - that of being Salvador Dali.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Charles Darwin",
+		"QuoteText":"A mathematician is a blind man in a dark room looking for a black cat which isn't there.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Lao Tzu",
+		"QuoteText":"At the center of your being you have the answer; you know who you are and you know what you want.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Lao Tzu",
+		"QuoteText":"By letting it go it all gets done. The world is won by those who let it go. But when you try and try. The world is beyond the winning.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Lao Tzu",
+		"QuoteText":"Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Marilyn Vos Savant",
+		"QuoteText":"The length of your education is less important than its breadth, and the length of your life is less important than its depth.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Michel De Montaigne",
+		"QuoteText":"Love to his soul gave eyes; he knew things are not as they seem. The dream is his real life; the world around him is the dream.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Damien Rice",
+		"QuoteText":"The moment you say you absolutely know something is the moment you begin to stop learning, and is the moment you've missed the point.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Learning"
+	},
+	{
+		"Author":"Steve Prefontaine",
+		"QuoteText":"A lot of people run a race to see who is fastest. I run to see who has the most guts, who can punish himself into exhausting pace, and then at the end, punish himself even more.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Charles De Montesquieu",
+		"QuoteText":"If we only wanted to be happy, it would be easy; but we want to be happier than other people, and that is almost always difficult, since we think them happier than they are.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Salvador Dali",
+		"QuoteText":"Mistakes are almost always of a sacred nature. Never try to correct them. On the contrary: rationalize them, understand them thoroughly. After that, it will be possible for you to sublimate them.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Damien Rice",
+		"QuoteText":"When I wrote Amie it was a hope for world peace, a hope for environmental consciousness, a hope for people having integrity within their lives and caring about animals and creatures and each other on an equal level. I was hoping that in 2000 maybe we would have this new millennium where people could change, but then I realized that I was hoping for something that seems to be against the nature of the flow of life and through kind of going through that and having problems with that I got to the point where I thought maybe we are in heaven right now and we don't realize it.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Jack London",
+		"QuoteText":"You can't wait for inspiration. You have to go after it with a club.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Emily Diskinson",
+		"QuoteText":"The soul should always stand ajar, ready to welcome the ecstatic experience.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Frederick Douglass",
+		"QuoteText":"It is not light that we need, but fire; it is not the gentle shower, but thunder. We need the storm, the whirlwind, and the earthquake.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Nathaniel Hawthorne",
+		"QuoteText":"Happiness is not found in things you possess, but in what you have the courage to release.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Camus",
+		"QuoteText":"Live to the point of tears.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"William Morris",
+		"QuoteText":"Have nothing in your house that you do not know to be useful or believe to be beautiful.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Turkish Proverb",
+		"QuoteText":"Kind words will unlock an iron door.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"John Burroughs",
+		"QuoteText":"Leap and the net will appear.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Jane Austen",
+		"QuoteText":"Let other pens dwell on guilt and misery.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Marie Curie",
+		"QuoteText":"Nothing in life is to be feared, it is only to be understood.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Stephen King",
+		"QuoteText":"Talent is cheaper than table salt. What separates talented individuals from successful ones is a lot of hard work.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Jean-jacques Rousseau",
+		"QuoteText":"Patience is bitter, but its fruit is sweet.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Gertrude Stein",
+		"QuoteText":"Let me listen to me and not to them.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Unknown",
+		"QuoteText":"There are no impossible obstacles; there are just stronger and weaker wills.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Oscare Wilde",
+		"QuoteText":"With freedom, books flowers, and the moon, who could not be happy.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Jonathan Swift",
+		"QuoteText":"May you live everyday of your life.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Anne Lamott",
+		"QuoteText":"This is what separates artists from ordinary people: the belief that if we build our castles strong enough somehow the ocean wont wash them away.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Harry Bertoia",
+		"QuoteText":"The urge for good design is the same as the urge to go on living.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Charlotte Bronte",
+		"QuoteText":"Life appears to me too short to be spent on nursing animosity or registering wrongs.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Sam Harris",
+		"QuoteText":"Most of us could easily compile a list of goals we want to achieve or personal problems that need to be solved. But what is the real significance of every item on such a list? Everything we want to accomplish---to paint the house, learn a new language, find a better job---is something that promises that, if done, it would allow us to finally relax and enjoy our lives in the present. Generally speaking, this is a false hope. I'm not denying the importance of achieving one's goals, maintaining one's health, or keeping one's children clothed and fed---but most of us spend our time seeking happiness and security without acknowledging the underlying purpose of our search. Each of us is looking for a path back to the present: We are trying to find good enough reasons to be satisfied now. Acknowledging that this is the structure of the game we are playing allows us to play it differently. How we pay attention to the present moment largely determines the character of our experience and, therefore, the quality of our lives. Mystics and contemplatives have made this claim for ages---but a growing body of scientific research now bears it out..",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Edwin Powell Hubble, The Nature Of Science, 1954",
+		"QuoteText":"Equipped with his five senses, man explores the universe around him and calls the adventure Science.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Bernard Williams",
+		"QuoteText":"I like the word 'indolence'. It makes my laziness seem classy.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Larry Wall",
+		"QuoteText":"The three chief virtues of a programmer are: Laziness, Impatience and Hubris.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Aron Nimzowitsch",
+		"QuoteText":"A thorough knowledge of the elements takes us more than half the road to mastership..",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Albert Einstein",
+		"QuoteText":"The only source of knowledge is experience.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Albert Einstein",
+		"QuoteText":"Anyone who has never made a mistake has never tried anything new.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Niels Bohr",
+		"QuoteText":"An expert is simply someone who has made all the mistakes that are possible in a narrow field",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Sam Harris",
+		"QuoteText":"But we spend most of our lives forgetting this truth---overlooking it, fleeing it, repudiating it. And the horror is that we succeed. We manage to avoid being happy while struggling to become happy, fulfilling one desire after the next, banishing our fears, grasping at pleasure, recoiling from pain---and thinking, interminably, about how best to keep the whole works up and running. As a consequence, we spend our lives being far less content than we might otherwise be. We often fail to appreciate what we have until we have lost it. We crave experiences, objects, relationships, only to grow bored with them. And yet the craving persists. I speak from experience, of course. Even while living safely between emergencies, most of us feel a wide range of painful emotions on a daily basis. When you wake up in the morning, are you filled with joy? How do you feel at work or when looking in the mirror? How satisfied are you with what you've accomplished in life? How much of your time with your family is spent surrendered to love and gratitude, and how much is spent just struggling to be happy in one another's company? Even for extraordinarily lucky people, life is difficult. And when we look at what makes it so, we see that we are all prisoners of our thoughts. And then there is death, which defeats everyone. Most people seem to believe that we have only two ways to think about death: We can fear it and do our best to ignore it, or we can deny that it is real. The first strategy leads to a life of conventional worldliness and distraction---we merely strive for pleasure and success and do our best to keep the reality of death out of view. The second strategy is the province of religion, which assures us that death is but a doorway to another world and that the most important opportunities in life occur after the lifetime of the body. But there is another path, and it seems the only one compatible with intellectual honesty. That path is the subject of this book.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Bret Victor",
+		"QuoteText":"The most dangerous thought you can have as a creative person is to think you know what you're doing.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":""
+	},
+	{
+		"Author":"Adrian Rosebrock",
+		"QuoteText":"Learning can only take place when we are uncomfortable---when we are right on the edge of our comfort zone, trying to stretch forward.",
+		"SourceLink":"",
+		"SourceTitle":"",
+		"Topic":"Learning"
+	}
 ]

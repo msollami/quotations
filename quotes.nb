@@ -1,0 +1,482 @@
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[         0,          0]
+NotebookDataLength[     17795,        481]
+NotebookOptionsPosition[     14657,        417]
+NotebookOutlinePosition[     15052,        433]
+CellTagsIndexPosition[     15009,        430]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Quotes Data", "Title",ExpressionUUID->"3843aa01-9dc3-4374-9da0-f56937e5b2e5"],
+
+Cell["Not for public use", "Subtitle",
+ CellChangeTimes->{{3.7170160054851294`*^9, 3.717016014237361*^9}},
+ FontSlant->"Italic",ExpressionUUID->"f3e24ad3-34cd-4180-8217-bbc7d6881cec"],
+
+Cell[CellGroupData[{
+
+Cell["Update quotes.json", "Section",ExpressionUUID->"20805d18-7e5c-4591-afe4-2f1f0852a6bd"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"$Quotes", " ", "=", " ", 
+   RowBox[{"Import", "[", 
+    RowBox[{
+     RowBox[{"FileNameJoin", "[", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"NotebookDirectory", "[", "]"}], ",", " ", 
+        "\"\<quotes.json\>\""}], "}"}], "]"}], ",", "\"\<RawJSON\>\""}], 
+    "]"}]}], ";"}]], "Input",
+ CellChangeTimes->{{3.717017095710376*^9, 3.717017104998773*^9}, {
+   3.7170176987953444`*^9, 3.717017701506583*^9}, {3.717017964796566*^9, 
+   3.717017967852199*^9}, 3.7170179980591917`*^9},
+ CellLabel->
+  "In[933]:=",ExpressionUUID->"511c947f-7036-4de0-94c2-d4d41a38c054"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"$Quotes", "=", 
+   RowBox[{"DeleteCases", "[", 
+    RowBox[{"$Quotes", ",", 
+     RowBox[{"<|", 
+      RowBox[{
+       RowBox[{"\"\<Author\>\"", " ", "->", " ", "\"\<\>\""}], ",", " ", 
+       RowBox[{"\"\<QuoteText\>\"", " ", "->", " ", "\"\<\>\""}], ",", " ", 
+       RowBox[{"\"\<SourceLink\>\"", " ", "->", " ", "\"\<\>\""}], ",", " ", 
+       RowBox[{"\"\<SourceTitle\>\"", " ", "->", " ", "\"\<\>\""}], ",", " ", 
+       
+       RowBox[{"\"\<Topic\>\"", " ", "->", " ", "\"\<\>\""}]}], "|>"}]}], 
+    "]"}]}], ";"}]], "Input",
+ CellChangeTimes->{{3.717019617511414*^9, 3.717019634678855*^9}},
+ CellLabel->
+  "In[934]:=",ExpressionUUID->"ee56b68f-6acf-4737-bc69-293ab665f2df"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Length", "[", "$Quotes", "]"}]], "Input",
+ CellChangeTimes->{{3.717018086448607*^9, 3.717018093449397*^9}},
+ CellLabel->
+  "In[935]:=",ExpressionUUID->"e59d0e92-4176-495a-8756-4f7d20435116"],
+
+Cell[BoxData["352"], "Output",
+ CellLabel->
+  "Out[935]=",ExpressionUUID->"5d3b8525-0d93-48e7-b77f-154c3f360f81"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"$Topics", " ", "=", 
+  RowBox[{"Union", "[", 
+   RowBox[{"Flatten", "[", " ", 
+    RowBox[{
+     RowBox[{
+      RowBox[{"#", "[", "\"\<Topic\>\"", "]"}], "&"}], "/@", "$Quotes"}], 
+    "]"}], "]"}]}]], "Input",
+ CellLabel->
+  "In[937]:=",ExpressionUUID->"0de4159a-cd0f-4950-9bb2-a1267a927187"],
+
+Cell[BoxData[
+ RowBox[{"{", 
+  RowBox[{"\<\"\"\>", ",", "\<\"Art\"\>", ",", "\<\"Computer Science\"\>", 
+   ",", "\<\"Humor\"\>", ",", "\<\"Learning\"\>", ",", "\<\"Life\"\>", 
+   ",", "\<\"Mathematics\"\>", ",", "\<\"Mind\"\>", ",", "\<\"Philosophy\"\>",
+    ",", "\<\"Relationships\"\>", ",", "\<\"Science\"\>"}], "}"}]], "Output",
+ CellLabel->
+  "Out[937]=",ExpressionUUID->"61cef3fb-64fe-427e-abf8-2d30efb8d1f3"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"$NewQuotes", "=", 
+  RowBox[{"{", "}"}]}]], "Input",
+ CellChangeTimes->{{3.7170174469875*^9, 3.717017447475348*^9}, 
+   3.717017634958438*^9},
+ CellLabel->
+  "In[938]:=",ExpressionUUID->"98b7c26a-7d3a-4f0b-bdc7-c93dc513bbd3"],
+
+Cell[BoxData[
+ RowBox[{"{", "}"}]], "Output",
+ CellLabel->
+  "Out[938]=",ExpressionUUID->"8b88a78e-dff9-48c9-995a-26cfddec30c1"]
+}, Open  ]],
+
+Cell[BoxData[
+ RowBox[{"DynamicModule", "[", 
+  RowBox[{
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"a", "=", "\"\<\>\""}], ",", 
+     RowBox[{"q", "=", "\"\<\>\""}], ",", 
+     RowBox[{"sl", "=", "\"\<\>\""}], ",", 
+     RowBox[{"st", "=", "\"\<\>\""}], ",", 
+     RowBox[{"t", "=", "\"\<\>\""}]}], "}"}], ",", "\[IndentingNewLine]", 
+   RowBox[{"Magnify", "[", 
+    RowBox[{"Panel", "[", 
+     RowBox[{"Column", "[", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"TextGrid", "[", 
+         RowBox[{
+          RowBox[{"{", 
+           RowBox[{
+            RowBox[{"{", 
+             RowBox[{"\"\<Author\>\"", ",", 
+              RowBox[{"InputField", "[", 
+               RowBox[{
+                RowBox[{"Dynamic", "[", "a", "]"}], ",", "String"}], "]"}]}], 
+             "}"}], ",", 
+            RowBox[{"{", 
+             RowBox[{"\"\<QuoteText\>\"", ",", 
+              RowBox[{"InputField", "[", 
+               RowBox[{
+                RowBox[{"Dynamic", "[", "q", "]"}], ",", "String"}], "]"}]}], 
+             "}"}], ",", 
+            RowBox[{"{", 
+             RowBox[{"\"\<SourceLink\>\"", ",", 
+              RowBox[{"InputField", "[", 
+               RowBox[{
+                RowBox[{"Dynamic", "[", "sl", "]"}], ",", "String"}], "]"}]}],
+              "}"}], ",", 
+            RowBox[{"{", 
+             RowBox[{"\"\<SourceTitle\>\"", ",", 
+              RowBox[{"InputField", "[", 
+               RowBox[{
+                RowBox[{"Dynamic", "[", "st", "]"}], ",", "String"}], "]"}]}],
+              "}"}], ",", 
+            RowBox[{"{", 
+             RowBox[{"\"\<Topic\>\"", ",", 
+              RowBox[{"PopupMenu", "[", 
+               RowBox[{
+                RowBox[{"Dynamic", "[", "t", "]"}], ",", "$Topics"}], "]"}]}],
+              "}"}]}], "}"}], ",", 
+          RowBox[{"Frame", "\[Rule]", "All"}]}], "]"}], ",", 
+        RowBox[{"Button", "[", 
+         RowBox[{"\"\<Add Quote\>\"", ",", 
+          RowBox[{"AppendTo", "[", 
+           RowBox[{"$NewQuotes", ",", 
+            RowBox[{"<|", 
+             RowBox[{
+              RowBox[{"\"\<Author\>\"", "->", "a"}], ",", 
+              RowBox[{"\"\<QuoteText\>\"", "->", "q"}], ",", 
+              RowBox[{"\"\<SourceLink\>\"", "->", "sl"}], ",", 
+              RowBox[{"\"\<SourceTitle\>\"", "->", "st"}], ",", 
+              RowBox[{"\"\<Topic\>\"", "->", "t"}]}], "|>"}]}], "]"}]}], 
+         "]"}]}], "}"}], "\[IndentingNewLine]", "]"}], "]"}], "]"}]}], 
+  "]"}]], "Input",
+ CellChangeTimes->{{3.717017144101843*^9, 3.717017651582099*^9}, {
+  3.717018062670588*^9, 3.717018070643152*^9}},
+ CellLabel->
+  "In[939]:=",ExpressionUUID->"3b476c41-a502-4e58-8e34-732b9fc10e6b"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Dynamic", "@", "$NewQuotes"}]], "Input",
+ CellChangeTimes->{{3.71701762566788*^9, 3.717017630069408*^9}, {
+  3.717018078793846*^9, 3.717018079865438*^9}},
+ CellLabel->
+  "In[940]:=",ExpressionUUID->"db50c400-7022-4a77-a0de-d096b6dbd3a7"],
+
+Cell[BoxData[
+ DynamicBox[ToBoxes[$CellContext`$NewQuotes, StandardForm],
+  ImageSizeCache->{16., {2.40576171875, 8.125}}]], "Output",
+ CellLabel->
+  "Out[940]=",ExpressionUUID->"c76a4c4a-5503-4daa-bdc0-004233e09b5e"]
+}, Open  ]],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"$Quotes", "=", " ", 
+   RowBox[{"Join", "[", 
+    RowBox[{"$Quotes", ",", "$NewQuotes"}], "]"}]}], ";"}]], "Input",
+ CellChangeTimes->{{3.7170181402919807`*^9, 
+  3.717018176833593*^9}},ExpressionUUID->"739a06c4-6ade-4f35-b27e-\
+41a3af03d87c"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"(*", 
+  RowBox[{"Backup", "[", 
+   RowBox[{"FileNameJoin", "[", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"NotebookDirectory", "[", "]"}], ",", " ", 
+      "\"\<quotes.json\>\""}], "}"}], "]"}], "]"}], "*)"}]], "Input",Expressio\
+nUUID->"6a9b0f4a-e14d-41e0-8b2a-768dd9ba115a"],
+
+Cell[BoxData[
+ RowBox[{"\[LeftAssociation]", 
+  RowBox[{
+   RowBox[{"\<\"ExitCode\"\>", "\[Rule]", "0"}], ",", 
+   RowBox[{"\<\"StandardOutput\"\>", "\[Rule]", "\<\"\"\>"}], ",", 
+   RowBox[{"\<\"StandardError\"\>", "\[Rule]", "\<\"\"\>"}]}], 
+  "\[RightAssociation]"}]], "Output",
+ CellChangeTimes->{{3.717018668888699*^9, 
+  3.71701870362883*^9}},ExpressionUUID->"d98ad075-c2d7-4774-aa56-\
+55a10e781ab0"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Export", "[", 
+  RowBox[{
+   RowBox[{"FileNameJoin", "[", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"NotebookDirectory", "[", "]"}], ",", " ", 
+      "\"\<quotes.json\>\""}], "}"}], "]"}], ",", "$Quotes"}], "]"}]], "Input",\
+
+ CellLabel->
+  "In[941]:=",ExpressionUUID->"7c8d7673-4ba4-4f03-9365-388394500daf"],
+
+Cell[BoxData["\<\"/Users/msollami/Downloads/quotations/quotes.json\"\>"], \
+"Output",
+ CellLabel->
+  "Out[941]=",ExpressionUUID->"a298a296-5def-41bb-ad0c-a2c0050159a4"]
+}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["Generate index.html", "Section",ExpressionUUID->"9068b9ea-70e0-4022-8c26-86fc6aba0428"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{
+  "$baseurl", " ", "=", " ", 
+   "\"\<https://msollami.github.io/quotations/\>\""}], ";"}]], "Code",
+ CellLabel->
+  "In[942]:=",ExpressionUUID->"f40e11f8-a50f-478e-a10b-ad27bff13b00"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"Clear", "@", "formatTopic"}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"formatTopic", "[", "t_String", "]"}], ":=", 
+   RowBox[{
+    RowBox[{
+    "StringTemplate", "[", 
+     "\"\<<div class=\\\"topic\\\"> <a \
+href=\\\"<*$baseurl*>?search=`1`\\\">`1`</a></div>\>\"", "]"}], "[", "t", 
+    "]"}]}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"formatTopic", "[", "l_List", "]"}], ":=", 
+   RowBox[{"\"\<<div class=\\\"topic\\\">\>\"", "<>", 
+    RowBox[{"StringRiffle", "[", 
+     RowBox[{
+      RowBox[{
+       RowBox[{
+       "StringTemplate", "[", 
+        "\"\<<a href=\\\" <*$baseurl*>?search=`1`\\\">`1`</a>\>\"", "]"}], "/@",
+        "l"}], ",", "\"\< | \>\""}], "]"}], "<>", "\"\<</div>\>\""}]}], 
+  ";"}], "\n", 
+ RowBox[{
+  RowBox[{"formatSource", "[", 
+   RowBox[{"t_", ",", "l_"}], "]"}], " ", ":=", " ", 
+  RowBox[{"Which", "[", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"!", 
+      RowBox[{"MissingQ", "@", "l"}]}], " ", "&&", " ", 
+     RowBox[{"!", 
+      RowBox[{"MissingQ", "@", "t"}]}], " ", "&&", " ", 
+     RowBox[{"l", "!=", "\"\<\>\""}], " ", "&&", " ", 
+     RowBox[{"t", "!=", "\"\<\>\""}]}], ",", " ", "\n", " \t", 
+    RowBox[{
+     RowBox[{
+     "StringTemplate", "[", 
+      "\"\<<a href=\\\"`2`\\\" class=\\\"title\\\" >  - `1` </a>\>\"", "]"}], 
+     "[", 
+     RowBox[{"t", ",", "l"}], "]"}], ",", "\n", " \t\t", 
+    RowBox[{
+     RowBox[{"!", 
+      RowBox[{"MissingQ", "@", "t"}]}], " ", "&&", " ", 
+     RowBox[{"t", "!=", "\"\<\>\""}]}], ",", "\n", " \t\t", 
+    RowBox[{
+     RowBox[{
+     "StringTemplate", "[", "\"\<<a class=\\\"title\\\" >  - `1` </a>\>\"", 
+      "]"}], "[", "t", "]"}], ",", "\n", " \t", "True", ",", "\"\<\>\""}], 
+   "\n", " ", "]"}]}]}], "Code",
+ CellLabel->
+  "In[960]:=",ExpressionUUID->"ad9e9895-4fd5-43d3-9d13-873cf247fcb2"],
+
+Cell[BoxData[
+ RowBox[{"$Quotes", " ", "=", " ", 
+  RowBox[{"Import", "[", 
+   RowBox[{
+    RowBox[{"FileNameJoin", "[", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"NotebookDirectory", "[", "]"}], ",", " ", 
+       "\"\<quotes.json\>\""}], "}"}], "]"}], ",", " ", "\"\<RawJSON\>\""}], 
+   "]"}]}]], "Code",
+ CellLabel->
+  "In[964]:=",ExpressionUUID->"189103cc-5bf4-4f19-8f92-d2ac634b2581"],
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"$Quotes", " ", "=", " ", 
+   RowBox[{"Association", " ", "/@", " ", 
+    RowBox[{"(", 
+     RowBox[{
+      RowBox[{
+       RowBox[{"(", 
+        RowBox[{"Append", "[", 
+         RowBox[{"#", ",", " ", 
+          RowBox[{"\"\<QuoteID\>\"", "\[Rule]", 
+           RowBox[{"StringJoin", "@", 
+            RowBox[{"RandomSample", "[", 
+             RowBox[{
+              RowBox[{"Characters", "@", "\"\<abcdefghij12345676789\>\""}], 
+              ",", "10"}], "]"}]}]}]}], "]"}], ")"}], "&"}], " ", "/@", " ", 
+      RowBox[{"Normal", "[", "$Quotes", "]"}]}], ")"}]}]}], ";"}]], "Code",Exp\
+ressionUUID->"a2bdc382-34f2-4214-8f5a-965ba934a109"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"$Quotes", " ", "=", " ", 
+   RowBox[{"SortBy", "[", 
+    RowBox[{"$Quotes", ",", " ", 
+     RowBox[{
+      RowBox[{"StringLength", "[", "#QuoteText", "]"}], "&"}]}], "]"}]}], 
+  ";"}], "\n", 
+ RowBox[{
+  RowBox[{"body", "=", 
+   RowBox[{"StringRiffle", "[", 
+    RowBox[{
+     RowBox[{
+      RowBox[{
+      "StringTemplate", "[", 
+       "\"\<<div id=\\\"`QuoteID`\\\" class=\\\"entry\\\" \
+data-author=\\\"`Author`\\\">\n<div class=\\\"source\\\">\n\t<a \
+class=\\\"permalink\\\" href=\\\"`Base`#`QuoteID`\\\">#</a>\n\t\t<a \
+class=\\\"author\\\" \
+href=\\\"<*$baseurl*>?author=<*StringReplace[URLEncode[#Author],\\\"+\\\"->\\\
+\"%20\\\"]*>\\\">`Author`</a>\n\t<*formatSource[#SourceTitle, #SourceLink]*>\n\
+</div>\n<div class=\\\"quote\\\"><p><*#QuoteText*></p></div>\n\
+<*formatTopic[#Topic]*>\n</div>\n\>\"", "]"}], " ", "/@", " ", "$Quotes"}], 
+     ",", "\"\<\\n\>\""}], "]"}]}], ";"}]}], "Code",
+ CellLabel->
+  "In[966]:=",ExpressionUUID->"d497ad6b-76be-40b3-b7df-65450e3b031d"],
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"doc", "=", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"StringTemplate", "[", 
+      RowBox[{
+      "\"\<<!DOCTYPE html>\n\n<html><head><meta http-equiv=\\\"Content-Type\\\
+\" content=\\\"text/html; charset=UTF-8\\\">\n\n    <!--<base target=\\\"_top\
+\\\">--><base href=\\\".\\\" target=\\\"_top\\\">\n    <title>Quotes</title>\n\
+    <script \
+src=\\\"https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js\\\">\
+\n    $(document).on(\\\"keypress\\\", \\\"form\\\", function(event) {\n      \
+  return event.keyCode != 13;\n    });\n    </script>\n    <script \
+src=\\\"http://code.jquery.com/ui/1.9.2/jquery-ui.js\\\"></script>\n\n    \
+<link rel=\\\"alternate\\\" href=\\\"<*$baseurl*>feed.xml\\\" \
+type=\\\"application/atom+xml\\\" title=\\\"Atom\\\">\n    <link \
+rel=\\\"stylesheet\\\" href=\\\"./style.css\\\" type=\\\"text/css\\\">\n    \
+<script type=\\\"text/javascript\\\" src=\\\"./search.js\\\"></script>\n\
+</head>\n\n<body onload=\\\"onload()\\\">\n\n<div id=\\\"search\\\" \
+contenteditable=\\\"true\\\" oninput=\\\"searchChanged()\\\" \
+data-text=\\\"type to search...\\\"></div>\n<h1><a class=\\\"toplink\\\" \
+href=\\\"<*$baseurl*>index.html\\\">Treasures of Thought</a></h1>\n<h2>A \
+selection of \>\"", "<>", 
+       RowBox[{"ToString", "@", 
+        RowBox[{"Length", "[", "$Quotes", "]"}]}], "<>", 
+       "\"\< marvelous quotes</h2>\n\n\>\""}], "]"}], "[", "]"}], "<>", 
+    "body", "<>", "\"\<\n\n</body></html>\>\""}]}], ";"}], "\n", 
+ RowBox[{
+  RowBox[{"Export", "[", 
+   RowBox[{
+    RowBox[{"FileNameJoin", "[", 
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"NotebookDirectory", "[", "]"}], ",", 
+       "\"\<new_index.html\>\""}], "}"}], "]"}], ",", "doc", ",", 
+    "\"\<Text\>\""}], "]"}], ";"}]}], "Code",
+ CellLabel->
+  "In[970]:=",ExpressionUUID->"8d17c278-5dba-49b5-a3d8-426759da9ba9"]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{1440, 855},
+WindowMargins->{{0, Automatic}, {Automatic, 300}},
+FrontEndVersion->"12.1 for Mac OS X x86 (64-bit) (March 18, 2020)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"15fba3e3-32ba-423a-9ffb-4d2ce0b834fd"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[422, 15, 83, 0, 98, "Title",ExpressionUUID->"3843aa01-9dc3-4374-9da0-f56937e5b2e5"],
+Cell[508, 17, 183, 2, 53, "Subtitle",ExpressionUUID->"f3e24ad3-34cd-4180-8217-bbc7d6881cec"],
+Cell[CellGroupData[{
+Cell[716, 23, 92, 0, 67, "Section",ExpressionUUID->"20805d18-7e5c-4591-afe4-2f1f0852a6bd"],
+Cell[811, 25, 610, 15, 25, "Input",ExpressionUUID->"511c947f-7036-4de0-94c2-d4d41a38c054"],
+Cell[1424, 42, 716, 16, 25, "Input",ExpressionUUID->"ee56b68f-6acf-4737-bc69-293ab665f2df"],
+Cell[CellGroupData[{
+Cell[2165, 62, 214, 4, 25, "Input",ExpressionUUID->"e59d0e92-4176-495a-8756-4f7d20435116"],
+Cell[2382, 68, 113, 2, 27, "Output",ExpressionUUID->"5d3b8525-0d93-48e7-b77f-154c3f360f81"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[2532, 75, 317, 9, 25, "Input",ExpressionUUID->"0de4159a-cd0f-4950-9bb2-a1267a927187"],
+Cell[2852, 86, 416, 7, 27, "Output",ExpressionUUID->"61cef3fb-64fe-427e-abf8-2d30efb8d1f3"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[3305, 98, 249, 6, 25, "Input",ExpressionUUID->"98b7c26a-7d3a-4f0b-bdc7-c93dc513bbd3"],
+Cell[3557, 106, 128, 3, 27, "Output",ExpressionUUID->"8b88a78e-dff9-48c9-995a-26cfddec30c1"]
+}, Open  ]],
+Cell[3700, 112, 2658, 66, 152, "Input",ExpressionUUID->"3b476c41-a502-4e58-8e34-732b9fc10e6b"],
+Cell[CellGroupData[{
+Cell[6383, 182, 261, 5, 25, "Input",ExpressionUUID->"db50c400-7022-4a77-a0de-d096b6dbd3a7"],
+Cell[6647, 189, 217, 4, 27, "Output",ExpressionUUID->"c76a4c4a-5503-4daa-bdc0-004233e09b5e"]
+}, Open  ]],
+Cell[6879, 196, 278, 7, 25, "Input",ExpressionUUID->"739a06c4-6ade-4f35-b27e-41a3af03d87c"],
+Cell[CellGroupData[{
+Cell[7182, 207, 305, 8, 25, "Input",ExpressionUUID->"6a9b0f4a-e14d-41e0-8b2a-768dd9ba115a"],
+Cell[7490, 217, 406, 9, 30, "Output",ExpressionUUID->"d98ad075-c2d7-4774-aa56-55a10e781ab0"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[7933, 231, 337, 10, 25, "Input",ExpressionUUID->"7c8d7673-4ba4-4f03-9365-388394500daf"],
+Cell[8273, 243, 168, 3, 27, "Output",ExpressionUUID->"a298a296-5def-41bb-ad0c-a2c0050159a4"]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[8490, 252, 93, 0, 67, "Section",ExpressionUUID->"9068b9ea-70e0-4022-8c26-86fc6aba0428"],
+Cell[8586, 254, 218, 6, 35, "Code",ExpressionUUID->"f40e11f8-a50f-478e-a10b-ad27bff13b00"],
+Cell[8807, 262, 1848, 52, 204, "Code",ExpressionUUID->"ad9e9895-4fd5-43d3-9d13-873cf247fcb2"],
+Cell[10658, 316, 396, 11, 35, "Code",ExpressionUUID->"189103cc-5bf4-4f19-8f92-d2ac634b2581"],
+Cell[11057, 329, 676, 17, 35, "Code",ExpressionUUID->"a2bdc382-34f2-4214-8f5a-965ba934a109"],
+Cell[11736, 348, 1021, 25, 246, "Code",ExpressionUUID->"d497ad6b-76be-40b3-b7df-65450e3b031d"],
+Cell[12760, 375, 1869, 38, 603, "Code",ExpressionUUID->"8d17c278-5dba-49b5-a3d8-426759da9ba9"]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
